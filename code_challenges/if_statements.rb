@@ -41,3 +41,8 @@ If cups_of_flour = 1 and has_sauce = true, print "I cannot make pizza"
 If cups_of_flour = 5 and has_sauce = false, print "I cannot make pizza"
 If cups_of_flour = 2 and has_sauce = true, print "I can make pizza"
 If cups_of_flour = 3 and has_sauce = true, print "I can make pizza"
+
+
+If cups_of_flour >= 2 && has_sauce == true, print "I can make pizza"
+else print "I can not make pizza"
+end
