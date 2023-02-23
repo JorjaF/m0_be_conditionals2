@@ -1,4 +1,4 @@
-num = 26
+num = 27
 
 if num.even?
     puts "even"
